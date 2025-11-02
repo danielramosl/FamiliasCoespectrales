@@ -1,0 +1,30 @@
+n = 1
+Tiempo = 0s
+Memoria: 2.67029e-05MB
+n = 2
+Tiempo = 0s
+Memoria: 6.10352e-05MB
+n = 3
+Tiempo = 0s
+Memoria: 0.000137329MB
+n = 4
+Tiempo = 0s
+Memoria: 0.000419617MB
+n = 5
+Tiempo = 0s
+Memoria: 0.0014267MB
+n = 6
+Tiempo = 0.009s
+Memoria: 0.00714111MB
+n = 7
+Tiempo = 0.049s
+Memoria: 0.0517731MB
+n = 8
+Tiempo = 0.885s
+Memoria: 0.659348MB
+n = 9
+Tiempo = 5.264s
+Memoria: 15.7166MB
+n = 10
+Tiempo = 324.859s
+Memoria: 732.737MB
